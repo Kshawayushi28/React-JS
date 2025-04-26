@@ -1,5 +1,2 @@
-
-
-
 "# React-JS" 
 test
